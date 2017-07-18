@@ -1,0 +1,5 @@
+php artisan config:clear
+php artisan cache:clear
+
+cd node_modules
+node server
